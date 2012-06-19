@@ -4,21 +4,21 @@ C++ Builder XE2 MD5 Functions
 
 Some simple MD5 functions within C++ Builder XE2 
 
-Requirement:
+Requirements:
 ============
 
 1.cppxe2md5.h
 
 2.md5.h
 
-Source of md5.h is as follow:
 
-http://bobobobo.wordpress.com/2010/10/17/md5-c-implementation/
+The two files are in Folder "libs" .
+
+The source of md5.h is from http://bobobobo.wordpress.com/2010/10/17/md5-c-implementation/
 
 
 
-
-Three functions:
+Three Functions:
 ================
 
 String StringToMD5String(String input);
